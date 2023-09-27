@@ -1,0 +1,19 @@
+.reverse {
+  padding: 0.7rem;
+  border-radius: 50%;
+  background-color: rgb(99 102 241);
+  border: 1px solid rgb(99 102 241);
+  max-width: 3rem;
+  max-height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3rem;
+  min-height: 3rem;
+  cursor: pointer;
+}
+
+.reverse-svg {
+  max-width: 1.3rem;
+  max-height: 1.3rem;
+}
